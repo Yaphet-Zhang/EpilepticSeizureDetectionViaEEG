@@ -7,9 +7,9 @@ Finally, we obtained a cross-validation f1-score of 0.97 and a leave-one-out cro
 
 (TBD) We have obtained permission from hospitals, patients, and companies, and are currently writing the paper for submission. 
 
-<img src = './result/2.png' alt='drawing' height='350'/>
+<img src = './results/2.png' alt='drawing' height='350'/>
 
-<img src = './result/1.png' alt='drawing' height='350'/>
+<img src = './results/1.png' alt='drawing' height='350'/>
 
 # Usage
 
